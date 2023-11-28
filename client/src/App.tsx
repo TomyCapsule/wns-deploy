@@ -31,7 +31,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>Balance ton carbone avec un https</h1>
+          <h1>Balance ton carbone sans le 2e webhook</h1>
         </Container>
       </Header>
       <Container>
